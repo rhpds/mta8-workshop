@@ -12,6 +12,6 @@ tabs:
 - name: Migration Toolkit
   url: 'https://mta-mta-${USER}.${DOMAIN}'
 - name: Gitea
-  url: 'https://gitea.${DOMAIN}/${USER}/mcp'
+  url: 'https://gitea.${DOMAIN}/${USER}/modern-app-dev'
 - name: OpenShift Gitops
   url: 'https://openshift-gitops-server-openshift-gitops.${DOMAIN}'
