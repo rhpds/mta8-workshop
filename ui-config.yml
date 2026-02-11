@@ -9,8 +9,10 @@ persist_url_state: true
 tabs:
 - name: OpenShift Console
   url: 'https://console-openshift-console.${DOMAIN}'
-- name: Migration Toolkit
+- name: Migration Toolkit for Applications
   url: 'https://mta-mta-${USER}.${DOMAIN}'
+- name: OpenShift DevSpaces
+  url: 'https://devspaces.${DOMAIN}'
 - name: Gitea
   url: 'https://gitea.${DOMAIN}/${USER}/modern-app-dev'
 - name: OpenShift Gitops
